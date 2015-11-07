@@ -11,4 +11,4 @@ permalink: /about/
 
 二次元属性，中二病晚期，宅男。
 
-Email: 3355401415 a_t qq dot com
+Email: 3355401415 AT qq DOT com

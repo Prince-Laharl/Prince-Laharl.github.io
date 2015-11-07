@@ -1,2 +1,5 @@
-# - slug: design
-#  name: Design
+- slug: programming 
+  name: Programming
+
+- slug: tools 
+  name: Tool
