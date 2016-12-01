@@ -12,20 +12,33 @@ categories: [programming]
 余额: 200
 Email: jack******@gmail.com
 
-
 ### biaaib
 余额: 300
 Email: 2966******@qq.com
 
+
 ### kouyin
-余额: 0
+余额: 200
 Email: ky2******@gmail.com
+
+### jianwei
+余额: 100
+Email: 624******@qq.com
+
+### jiyu
+余额: 50
+Email: 986******@qq.com
 
 -------
 
-
-
 # 历史交易记录
+
+2016年12月1日
+
+* kouyin + 200
+* jianwei + 100
+* jiyu + 50
+
 
 2016年11月27日
 
