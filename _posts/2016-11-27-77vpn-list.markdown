@@ -9,28 +9,28 @@ categories: [programming]
 # 当前用户
 
 ### +7
-余额: 200
+余额: 188.39
 Email: jack******@gmail.com
 
 ### biaaib
-余额: 300
+余额: 288.39
 Email: 2966******@qq.com
 
 
 ### kouyin
-余额: 200
+余额: 188.39
 Email: ky2******@gmail.com
 
 ### jianwei
-余额: 100
+余额: 88.39
 Email: 624******@qq.com
 
 ### jiyu
-余额: 50
+余额: 38.39
 Email: 986******@qq.com
 
 ### zhoulei
-余额: 100
+余额: 88.39
 Email: 107******@qq.com
 
 ### xyjian
@@ -40,6 +40,15 @@ Email: 506******@qq.com
 -------
 
 # 历史交易记录
+
+2017年1月1日
+
+* +7        : 200-11.61 = 188.39
+* biaaib    : 300-11.61 = 288.39
+* kouyin    : 200-11.61 = 188.39
+* jianwei   : 100-11.61 = 88.39
+* jiyu      : 50 -11.61 = 38.39
+* zhoulei   : 100-11.61 = 88.39
 
 2016年12月21日
 
